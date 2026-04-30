@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "c503600e-2500-4670-8a1c-8f7f405fa7f8",
+      "username": "alice",
+      "password": "$2a$10$zkcmoDgFdWVVe7vU3GZYseV5FPIvxGt6MpErBRgTUfH0ONPq2v9yy",
+      "createdAt": "2026-04-30T02:39:34.460Z"
+    },
+    {
+      "id": "fef5f134-1872-4078-8e00-48104a5add45",
+      "username": "bob",
+      "password": "$2a$10$4QTgZG/07CUwy2qa/zfRIOpaeS3fc/wZQpM/3HxiD.kZMzsBFkihe",
+      "createdAt": "2026-04-30T02:39:34.509Z"
+    },
+    {
+      "id": "1c93a0c5-7c26-4828-a956-30c7622b4afb",
+      "username": "charlie",
+      "password": "$2a$10$o1mD8ZglJy9BimI2NcPqXOaGY5Mn/P/BJs52mT2tktmlvOaDeU2y6",
+      "createdAt": "2026-04-30T02:39:34.557Z"
+    }
+  ],
+  "documents": [
+    {
+      "id": "a00584d1-7f68-459f-8bee-f1abbe0d25a5",
+      "title": "ajaiawrites",
+      "content": "<h1 style=\"text-align: left;\"></h1>",
+      "ownerId": "c503600e-2500-4670-8a1c-8f7f405fa7f8",
+      "createdAt": "2026-04-30T02:47:57.634Z",
+      "updatedAt": "2026-04-30T02:48:22.030Z"
+    }
+  ],
+  "shares": [],
+  "versions": [
+    {
+      "id": "38989e90-0558-4ec6-8b79-c1848e3b9536",
+      "documentId": "a00584d1-7f68-459f-8bee-f1abbe0d25a5",
+      "content": "",
+      "title": "ajaiawrites",
+      "savedBy": "alice",
+      "savedAt": "2026-04-30T02:47:57.655Z"
+    },
+    {
+      "id": "62f2562f-b39a-4dd0-b339-ed3d3b116655",
+      "documentId": "a00584d1-7f68-459f-8bee-f1abbe0d25a5",
+      "content": "<h1 style=\"text-align: left;\"></h1>",
+      "title": "ajaiawrites",
+      "savedBy": "alice",
+      "savedAt": "2026-04-30T02:48:28.712Z"
+    }
+  ],
+  "presence": []
+}
